@@ -4,6 +4,7 @@ Title: Analyzing Google Stock Prices Over Time
 
 Objective: Analyze historical stock price data for Google to identify trends, patterns, and key statistics, providing insights into the stock's performance over the past 30 years.
 
+
 Algorithms and Techniques Used:
 
 
