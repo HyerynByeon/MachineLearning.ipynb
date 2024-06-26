@@ -1,14 +1,11 @@
 # MachineLearning.ipynb
 
-Title of the Project:
-Stock Price Prediction Using LSTM Neural Networks
+Title: Analyzing Google Stock Prices Over Time
 
-Objective:
-To predict the future closing prices of Google's stock (GOOG) using historical stock price data, leveraging Long Short-Term Memory (LSTM) neural networks to capture and model the temporal dependencies in the data.
+Objective: Analyze historical stock price data for Google to identify trends, patterns, and key statistics, providing insights into the stock's performance over the past 30 years.
 
 Algorithms and Techniques Used:
-Long Short-Term Memory (LSTM) Neural Network
-Data Preprocessing with MinMaxScaler
-Feature Engineering (Year, Month, Day extraction)
-Mean Squared Error (MSE) Loss Function
-Adam Optimizer
+
+Data Collection: Using the yfinance library to fetch historical stock data.
+Descriptive Statistics: Calculating summary statistics to understand the data distribution.
+Data Visualization: Creating line plots to visualize stock prices and trading volumes over different time periods.
